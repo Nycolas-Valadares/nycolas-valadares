@@ -1,8 +1,15 @@
 # 👨🏻‍💻 Nycolas Valadares
 
-**`Analista de Dados`**
+**`Analista de Dados` | `Operações & Suprimentos`**
 
-Sou um profissional em formação na área de Administração, com experiências sólidas em rotinas administrativas, controle de documentos, atendimento ao cliente e suporte operacional. Tenho habilidade no uso avançado do Pacote Office, criação de planilhas automatizadas e dashboards para apoio à gestão. Atuei diretamente no acompanhamento de processos internos, organização de estoque, suporte à gerência e coordenação de pequenas seleções de candidatos. Além disso, venho me especializando em Análise de Dados, com conhecimento em SQL e Power BI, buscando integrar a gestão administrativa à tomada de decisões baseada em dados. Sou organizado, proativo e com facilidade para aprender novos sistemas e processos.
+Sou um profissional com sólida bagagem em operações logísticas e controle de estoque, agora aplicando inteligência analítica para otimizar rotinas e gerar resultados de negócio. Graduando em Administração e especializado em Análise de Dados.
+
+Meu foco é transformar dados brutos em estratégias sólidas de *saving* e eficiência operacional.
+
+### 🎯 Principais Focos:
+* **Análise e Otimização:** Monitoramento de KPIs operacionais e identificação de gargalos.
+* **Automação de Processos:** Criação de fluxos que reduzem trabalho manual e aumentam a acurácia.
+* **Visualização de Dados:** Construção de painéis gerenciais focados na tomada de decisão rápida.
 <p align="left">
    
    
@@ -79,24 +86,11 @@ src="https://api.iconify.design/simple-icons:microsoftsqlserver.svg"
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Nycolas-Valadares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nycolas-Valadares&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
-
-</p>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Nycolas-Valadares&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nycolas-Valadares&layout=compact&langs_count=7&theme=radical"/>
+</div>
     
     
