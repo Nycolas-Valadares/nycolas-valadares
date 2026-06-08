@@ -86,10 +86,28 @@ src="https://api.iconify.design/simple-icons:microsoftsqlserver.svg"
 <br/>
 <br/>
 
-### 📊 Estatísticas do GitHub
+### 🚀 Projetos em Destaque
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Nycolas-Valadares&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=2)
+Lidando com problemas reais de negócios através da análise de dados e automação.
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nycolas-Valadares&layout=compact&langs_count=7&theme=radical&v=2)
+| Projeto | Descrição | Tecnologias Utilizadas | Status |
+| :--- | :--- | :--- | :--- |
+| **[Pipeline de Inteligência de Compras](https://github.com/Nycolas-Valadares)** | Automação via Web Scraping de cotações de matérias-primas e visualização de oportunidades de *saving* em dashboard. | `Python`, `SQL`, `Pandas`, `Power BI` | Em desenvolvimento 🛠️ |
+| **[Análise de Dados Operacionais](https://github.com/Nycolas-Valadares)** | Modelagem e estruturação de KPIs para otimização de rotinas internas e relatórios gerenciais estruturados. | `Excel Avançado`, `Power BI` | Concluído ✅ |
+
+---
+
+### 🤝 Conecte-se comigo
+
+Fique à vontade para acompanhar meus projetos ou entrar em contato para oportunidades e parcerias!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/nycolas-valadares-447bb8214/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:nycolasmarinhovaladares@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
     
     
