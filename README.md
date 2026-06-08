@@ -88,9 +88,8 @@ src="https://api.iconify.design/simple-icons:microsoftsqlserver.svg"
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Nycolas-Valadares&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nycolas-Valadares&layout=compact&langs_count=7&theme=radical"/>
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Nycolas-Valadares&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=2)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nycolas-Valadares&layout=compact&langs_count=7&theme=radical&v=2)
     
     
