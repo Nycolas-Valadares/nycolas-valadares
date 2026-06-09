@@ -92,7 +92,7 @@ Lidando com problemas reais de negócios através da análise de dados e automa�
 
 | Projeto | Descrição | Tecnologias Utilizadas | Status |
 | :--- | :--- | :--- | :--- |
-| **[Pipeline de Inteligência de Compras](https://github.com/Nycolas-Valadares)** | Automação via Web Scraping de cotações de matérias-primas e visualização de oportunidades de *saving* em dashboard. | `Python`, `SQL`, `Pandas`, `Power BI` | Em desenvolvimento 🛠️ |
+| **[Pipeline de Inteligência de Compras](https://github.com/Nycolas-Valadares)** | Automação via Web Scraping de cotações de matérias-primas e visualização de oportunidades de *saving* em dashboard. | `Python`, `SQL`, `Pandas`, `Power BI` | Concluído ✅ |
 | **[Análise de Dados Operacionais](https://github.com/Nycolas-Valadares)** | Modelagem e estruturação de KPIs para otimização de rotinas internas e relatórios gerenciais estruturados. | `Excel Avançado`, `Power BI` | Concluído ✅ |
 
 ---
